@@ -1,0 +1,16 @@
+{
+  "name": "mock-server-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create-mock-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child-process": "^1.0.2",
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.1.6"
+  }
+}
